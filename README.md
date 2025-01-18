@@ -31,8 +31,7 @@ The following statistical analyses will be performed:
 The following steps will be carried out for the analysis:
 1. Data Cleansing
 2. Exploratory Data Analysis
-3. Statistical Analyses
-4. Visualization of Results
+3. Visualization of Results
 
 ## Expected Results
 
