@@ -1,0 +1,9 @@
+1) Downloade das File
+2) Öffne die PowerShell
+3) Navigiere zu dem gedownloadeten File
+4) Gehe nun wie folgt vor:
+	pipenv install
+	pipenv shell
+	pip install -r requirements.txt
+	streamlit run app.py
+5) Das Projekt öffnet sich nun in Streamlit über den Browser
