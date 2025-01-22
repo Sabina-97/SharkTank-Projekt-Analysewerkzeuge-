@@ -1,36 +1,36 @@
-# Analysis of investment data from the TV show Shark Tank U.S.
+# Analyse von Investitionsdaten aus der TV-Show Shark Tank U.S.
 
-## Project Description
+## Projektbeschreibung
 
-Shark Tank U.S. is a reality TV show in which entrepreneurs present their ideas and business models to prominent investors, the so-called "Sharks." The aim of the show is to reach a deal in which the sharks invest in the presented company. 
+Shark Tank U.S. ist eine Reality-TV-Show, in der Unternehmer ihre Ideen und Geschäftsmodelle prominenten Investoren, den sogenannten „Sharks“, vorstellen. Ziel der Show ist es, einen Deal zu erzielen, bei dem die Haie in das vorgestellte Unternehmen investieren. 
 
-The goal of this project is to use statistical and analytical tools to identify patterns in the Sharks' investments and decisions.
+Ziel dieses Projekts ist es, mit Hilfe von statistischen und analytischen Werkzeugen Muster in den Investitionen und Entscheidungen der Sharks zu erkennen.
 
-## Data Sources
+# Datenquellen
 
-The following data will be used for analysis:
-- SharkTank Dataset from Kaggle (https://www.kaggle.com/datasets/arpitsinghaiml/shark-tank-u-s-seasons-1-14?select=Shark+tank.xlsx)
+Die folgenden Daten werden für die Analyse verwendet:
+- SharkTank Dataset von Kaggle (https://www.kaggle.com/datasets/arpitsinghaiml/shark-tank-u-s-seasons-1-14?select=Shark+tank.xlsx)
 
-## Data Processing and Analysis
+## Datenverarbeitung und Analyse
 
-The following statistical analyses will be performed:
-1. How many deals and no-deals were there per season?  
-2. Which sector was invested in the least and most frequently?
-3. What was the gender distribution over the entire seasons? 
-4. Which gender received the most deals and no-deals?
-5. Did the deals demanded match the deals received? 
-6. Which Shark invested the highest amount? 
-7. Which Shark has participated in the most collaborations?
-8. Who has cooperated the most or the least?  
-9. What is the most successful product of all SharkTank seasons to date? 
+Die folgenden statistischen Analysen werden durchgeführt:
+1. Wie viele Deals und No-Deals gab es pro Saison?  
+2. In welchen Sektor wurde am wenigsten und am häufigsten investiert?
+3. Wie war die Geschlechterverteilung über die gesamte Saison hinweg? 
+4. Welches Geschlecht erhielt die meisten Deals und No-Deals?
+5. Stimmen die geforderten Deals mit den erhaltenen Deals überein? 
+6. Welcher Hai investierte den höchsten Betrag? 
+7. Welcher Shark hat sich an den meisten Kooperationen beteiligt?
+8. Wer hat am meisten oder am wenigsten zusammengearbeitet?  
+9. Welches ist das erfolgreichste Produkt aller bisherigen SharkTank-Staffeln? 
 
-## Methodology
+## Methodik
 
-The following steps will be carried out for the analysis:
-1. Data Cleaning
-2. Exploratory Data Analysis
-3. Visualization of Results
+Für die Analyse werden die folgenden Schritte durchgeführt:
+1. Bereinigung der Daten
+2. Explorative Datenanalyse
+3. Visualisierung der Ergebnisse
 
-## Expected Results
+## Erwartete Ergebnisse
 
-This project aims to provide insights into the factors that influence the success of a pitch and which sectors or strategies are preferred. Additionally, patterns in the Sharks' investment decisions will be identified.
+Dieses Projekt soll Aufschluss darüber geben, welche Faktoren den Erfolg eines Pitches beeinflussen und welche Sektoren oder Strategien bevorzugt werden. Außerdem sollen Muster in den Investitionsentscheidungen der Sharks ermittelt werden.
