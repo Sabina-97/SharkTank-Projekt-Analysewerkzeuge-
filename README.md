@@ -9,27 +9,25 @@ The goal of this project is to use statistical and analytical tools to identify 
 ## Data Sources
 
 The following data will be used for analysis:
-- [sharktankseason.com](http://sharktankseason.com)
-- tbd
+- SharkTank Dataset from Kaggle (https://www.kaggle.com/datasets/arpitsinghaiml/shark-tank-u-s-seasons-1-14?select=Shark+tank.xlsx)
 
 ## Data Processing and Analysis
 
 The following statistical analyses will be performed:
-- What is the overall success rate of pitches, and how does it vary between industries?
-- What is the average investment amount per deal, and how does this vary between industries?
-- Which sectors do the individual Sharks prefer to invest in?
-- Which combinations of Sharks most often invest together?
-- Which factors (e.g., sector, required amount, company valuation) increase the probability of a deal?
-- Are there differences in the success rate depending on the geographical origin of the entrepreneurs?
-- How are investments distributed across different business models (products, services, software)?
-- Do teams of entrepreneurs have a higher success rate than individuals?
-- How big is the difference between the required and actually accepted company valuations?
-- Which sectors are most frequently presented on the show, and which are the most successful?
+1. How many deals and no-deals were there per season?  
+2. Which sector was invested in the least and most frequently?
+3. What was the gender distribution over the entire seasons? 
+4. Which gender received the most deals and no-deals?
+5. Did the deals demanded match the deals received? 
+6. Which Shark invested the highest amount? 
+7. Which Shark has participated in the most collaborations?
+8. Who has cooperated the most or the least?  
+9. What is the most successful product of all SharkTank seasons to date? 
 
 ## Methodology
 
 The following steps will be carried out for the analysis:
-1. Data Cleansing
+1. Data Cleaning
 2. Exploratory Data Analysis
 3. Visualization of Results
 
